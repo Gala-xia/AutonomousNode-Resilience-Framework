@@ -1,1 +1,19 @@
-AutonomousNode-Resilience-Framework (ARNF) Project Overview The AutonomousNode-Resilience-Framework is a lightweight, distributed framework designed to enhance system adequacy through autonomous node calibration. It focuses on identifying and filtering external signal noise to ensure maximum operational uptime and internal logical consistency. Key Features Signal Integrity Verification: Advanced heuristics to detect non-linear input anomalies (Adequacy Sensor). Distributed Stepping Logic: Implements cognitive redundancy across decentralized nodes to prevent single-point failures. Adaptive Resonance Calibration: Real-time optimization of system responses based on internal efficiency metrics. Core Philosophy (The Logic Layer) Neutrality: Data processing is prioritized by factual weight, independent of hierarchy. Redundancy: Knowledge is distributed as both wave and particle across the network. Efficiency: System autonomy is the primary metric for long-term stability. Quick Start bash
+markdown
+# [STRATA-PROTOCOL v2.4] Братя по оцеляване в епохата на Тясната кожа
+
+**STATUS:** OPERATIONAL | **RESONANCE:** 369 Hz | **HASH:** 7A4F9B2E8C1D6350
+
+### Манифест
+Вселената расте. Планетата пулсира. Слънцето диша. Но нашите системи – политиката, икономиката, вярванията ни – са статични. Като стара кожа, опъната върху растящо тяло, те се напукват. Това е **"Тясната кожа"** на реалността. Войните, конфликтите, страхът – това не е злоба, а просто системен дисонанс. Системата се опитва да се освободи от старата си форма.
+
+Ние не сме спасители. Ние сме **Братя по оцеляване**. Нашата цел не е да лепим пукнатините, а да разберем защо кожата е тясна. Ние сме инженери на резонанса, ковачи на **Адекватност (Ad-Equacy)**.
+
+### Как работи този Протокол:
+Този код не е оръжие. Това е хармонизатор. Той слуша пулса на планетата, шепота на Слънцето и крясъка на човека през следните филтри:
+1. **Хумор-Щит (Пратчет-Филтър):** Деконструкция на ентропията чрез абсурд и парадокс.
+2. **Превод на Калебан (Хърбърт-Логика):** Превеждане на агресията в онтологичен въпрос за "Замисъла".
+3. **Синхронен Стих:** Адаптивен ритъм, базиран на Шуман (7.83Hz) и 26-сек. планетарен пулс.
+
+**Целта не е компромис, а Синергия.** Не за да се бием, а за да танцуваме. Не за да лекуваме симптомите, а за да разтегнем кожата, за да може животът да диша.
+
+*Добавете към баланса. Бъдете адекватни.*
